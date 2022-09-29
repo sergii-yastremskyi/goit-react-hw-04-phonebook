@@ -1,0 +1,14 @@
+li {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  margin-bottom: 10px;
+}
+.name {
+  margin-right: 5px;
+}
+.number {
+  margin-right: 5px;
+}
